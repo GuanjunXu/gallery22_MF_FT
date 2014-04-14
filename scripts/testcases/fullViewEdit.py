@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import unittest,string
-import gallery22_RHB_FT.cases.util
+import gallery22_MF_FT.cases.util
 
 PACKAGE_NAME = 'com.intel.android.gallery3d'
 ACTIVITY_NAME = PACKAGE_NAME + '.app.Gallery'
