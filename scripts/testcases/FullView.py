@@ -2,7 +2,7 @@
 import unittest
 import string,random,commands
 import libs.datahelper
-import gallery22_RHB_FT.cases.util
+import gallery22_MF_FT.cases.util
 import commands
 import time
 
