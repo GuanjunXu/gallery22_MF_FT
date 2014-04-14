@@ -3,7 +3,7 @@ import unittest, string
 import random
 import commands
 import sys
-import gallery22_RHB_FT.cases.util
+import gallery22_MF_FT.cases.util
 import time
 
 """
